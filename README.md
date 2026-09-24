@@ -1,4 +1,4 @@
-# FIRST LEGO League 2026-27
+# FIRST LEGO League 2026-27 
 
 This repository is the team's workspace for the **FIRST LEGO League 2026-27 season**.
 
